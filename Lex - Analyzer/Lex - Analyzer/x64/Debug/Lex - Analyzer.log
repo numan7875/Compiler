@@ -1,0 +1,5 @@
+﻿  Lex Analyzer.cpp
+c:\users\m.noman\documents\visual studio 2015\projects\lex - analyzer\lex - analyzer\lex analyzer.cpp(91): warning C4715: 'LexAnalyzer::identifiers': not all control paths return a value
+c:\users\m.noman\documents\visual studio 2015\projects\lex - analyzer\lex - analyzer\lex analyzer.cpp(170): warning C4715: 'LexAnalyzer::isRO': not all control paths return a value
+  Lex - Analyzer.vcxproj -> C:\Users\M.Noman\Documents\Visual Studio 2015\Projects\Lex - Analyzer\x64\Debug\Lex - Analyzer.exe
+  Lex - Analyzer.vcxproj -> C:\Users\M.Noman\Documents\Visual Studio 2015\Projects\Lex - Analyzer\x64\Debug\Lex - Analyzer.pdb (Full PDB)
