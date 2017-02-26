@@ -1,0 +1,32 @@
+int sum(i, j) {
+  return i + j;
+}
+
+int main(void) {
+  int a;
+  int b;
+  int c;
+  int d;
+  int e;
+  
+  a = x;
+  b = y;
+  c = b - a;
+  c = a * a / b;
+  e = a * b;
+  x = a / b + c * d / e;
+  y = a + b * c - d * e;
+  
+  if (x > y) {
+    x = x + a;
+  }
+  else {
+    x = x - b;
+  }
+  
+  while (e  > d) {
+    y = y - e;
+  }
+
+  sum(a, b);
+}
